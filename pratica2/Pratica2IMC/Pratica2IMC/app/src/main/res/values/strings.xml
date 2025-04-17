@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Prática IMC</string>
+    <string name="hint_nome">Nome</string>
+    <string name="hint_idade">Idade</string>
+    <string name="hint_peso">Peso (kg)</string>
+    <string name="hint_altura">Altura (m)</string>
+    <string name="btn_gerar_relatorio">Gerar Relatório Nutricional</string>
+</resources>
